@@ -1,0 +1,3 @@
+0 description:center loss
+1 description:data:mnist
+2 description:visualization

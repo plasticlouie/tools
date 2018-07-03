@@ -1,0 +1,13 @@
+time
+epoch-val acc
+epoch-val loss
+epoch-loss
+test acc
+final acc
+epoch-lr
+image shape
+
+loss curve
+
+model_save_path
+

@@ -1,0 +1,7 @@
+0 loss:60
+1 loss:50
+2 loss:40
+3 loss:30
+4 loss:20
+5 loss:10
+6 loss:1
